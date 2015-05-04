@@ -135,7 +135,7 @@
 <wire x1="26.67" y1="72.39" x2="27.94" y2="73.66" width="0.254" layer="20"/>
 <wire x1="27.94" y1="73.66" x2="80.01" y2="73.66" width="0.254" layer="20"/>
 <wire x1="80.01" y1="73.66" x2="80.01" y2="24.13" width="0.254" layer="20"/>
-<text x="31.876" y="66.357" size="1.27" layer="1" font="vector" ratio="15">Edith PCB v1.0</text>
+<text x="31.876" y="66.357" size="1.27" layer="1" font="vector" ratio="15">Phone-A-Friend v2.0</text>
 <text x="31.749" y="68.596" size="1.778" layer="1" font="vector" ratio="15">Operator
 Foundation</text>
 </plain>
